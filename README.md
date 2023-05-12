@@ -1,5 +1,6 @@
 # Effects of Real-Life Traffic Sign Alteration on YOLOv7- an Object Recognition Model
 
+## Course Project for ECE 692: Adversarial AI Methods, Spring 2023, University of Tennessee, Knoxville
 
 <a href="https://drive.google.com/file/d/1W90C9Ur4VZ4mX6qmbYuVF9Nubw8XtyKc/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
