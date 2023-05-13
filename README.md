@@ -79,10 +79,10 @@ python detect.py --weights weights/best.pt --conf 0.25 --img-size 640 --source t
 
 ```
 @article{ece692_yolo7,
-  title={Effects of Real-Life Traffic Sign Alteration on YOLOv7- an Object Recognition Model},
+  title={Effects of Real-Life Traffic Sign Alteration on YOLOv7-an Object Recognition Model},
   author={Riya, Farhin Farhad and Hoque, Shahinul and Onim, Md Saif Hassan and Michaud, Edward and Begoli, Edmon},
-  journal={----},
-  year={-----}
+  journal={arXiv preprint arXiv:2305.05499},
+  year={2023}
 }
 ```
 
